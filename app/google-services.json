@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "355282069358",
+    "firebase_url": "https://example.firebaseio.com",
+    "project_id": "facial-emotion-detection-app",
+    "storage_bucket": "facial-emotion-detection-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355282069358:android:36939977306c49dc5a437f",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355282069358-uk0orknqprpfkeci4ndrnp93dsktk9fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV6pJ4tebAHu852gP9HZ4F3ou2NSK9DlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355282069358-uk0orknqprpfkeci4ndrnp93dsktk9fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
